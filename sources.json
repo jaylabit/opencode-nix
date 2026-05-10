@@ -1,0 +1,19 @@
+{
+  "version": "1.14.46",
+  "x86_64-linux": {
+    "name": "opencode-linux-x64.tar.gz",
+    "hash": "sha256-GdgMQDlpMOlq/j9jAAvCjZCUdg2qFsex1+dtyZnP68s="
+  },
+  "aarch64-linux": {
+    "name": "opencode-linux-arm64.tar.gz",
+    "hash": "sha256-6zXqSnx3eIK8+dkR7pyPJeakInu97akQqiRx3qzzKRo="
+  },
+  "x86_64-darwin": {
+    "name": "opencode-darwin-x64.zip",
+    "hash": "sha256-vkIQTuTxNycaxSnrRWYohSsaKGvOxa6n++1FEb0rHFo="
+  },
+  "aarch64-darwin": {
+    "name": "opencode-darwin-arm64.zip",
+    "hash": "sha256-/iVrbdhkPJQEtpBI/l3WUHZbjDoEqewxANwo16ySuK4="
+  }
+}
